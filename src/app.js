@@ -7,7 +7,7 @@ import Register from './components/register/register.js';
 import Logo from './components/logo/logo.js';
 import ImageLinkForm from './components/imagelinkform/imagelinkform.js';
 import Rank from './components/rank/rank.js';
-import './App.css';
+import './app.css';
 import 'tachyons';
 
 const particlesOptions = {
